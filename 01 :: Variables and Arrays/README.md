@@ -66,3 +66,5 @@ Below is an example of how  variable is defined in Java:
    ageOfStudent[3] = 11;
    ageOfStudent[4] = 9;
 ```  
+
+Very important :: Array index starts with 0. This means that if there is an array of size 5, we can access the members of the array starting with index 0 and ending with index 4.
