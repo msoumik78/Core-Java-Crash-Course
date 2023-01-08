@@ -1,4 +1,4 @@
-# Variables - Primitives and Object References and Arrays
+# Variables - Primitives , Object References and Arrays
 
 We can think of variables in 2 ways :
 - A container or a bucket which occupies a certain portion of the meory of a running program and can hold a piece of data.
